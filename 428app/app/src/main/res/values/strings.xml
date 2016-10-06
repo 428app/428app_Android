@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">428app</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="welcome_428">4:28</string>
+
+    <string-array name="gender_arrays">
+        <item>No Answer</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="race_arrays">
+        <item>No Answer</item>
+        <item>White</item>
+        <item>Hispanic or Latino</item>
+        <item>Black or African American</item>
+        <item>Native American or American Indian</item>
+        <item>Asian / Pacific Islander</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="relationship_arrays">
+        <item>No Answer</item>
+        <item>Single</item>
+        <item>In a relationship</item>
+        <item>Engaged</item>
+        <item>Married</item>
+        <item>In an open relationship</item>
+        <item>Widowed</item>
+        <item>Separated</item>
+        <item>Divorced</item>
+        <item>In a civil union</item>
+        <item>In a domestic partnership</item>
+    </string-array>
+
+
+    <string-array name="religion_arrays">
+        <item>No Answer</item>
+        <item>Christianity</item>
+        <item>Islam</item>
+        <item>Catholicism</item>
+        <item>Hinduism</item>
+        <item>Agnosticism</item>
+        <item>Buddhism</item>
+        <item>Atheism</item>
+        <item>Anglicanism</item>
+        <item>Sikhism</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="signup">Sign Up</string>
+    <string name="title_activity_bio_info2">bio_info2</string>
+    <string name="title_activity_currentmatch">currentmatch</string>
+
+    <string-array name="match_name">
+        <item>Yihang1</item>
+        <item>Yihang2</item>
+        <item>Yihang3</item>
+        <item>Leo1</item>
+        <item>Leo2</item>
+        <item>Leo3</item>
+    </string-array>
+    <string name="title_activity_bio_info3">bio_info3</string>
+    <string name="title_activity_bio_info1_1">bio_info1_1</string>
+    <string name="tb_title">toolbar</string>
+    <string name="title_activity_bio_info1">bio_info1</string>
+    <string name="title_activity_matchlist">matchlist</string>
+
+</resources>
